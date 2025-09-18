@@ -23,5 +23,6 @@ The workflow automatically: ✅ Generates a cinematic prompt ✅ Creates an imag
    - Final videos are exported and stored in **Google Drive**.  
    - Links are updated back to Google Sheets for publishing.  
 
----
-]
+## WORKFLOW / DIAGRAM
+<img width="877" height="860" alt="Screenshot 2025-09-18 at 9 38 41 PM" src="https://github.com/user-attachments/assets/8cf2111f-4dfb-41c4-8a37-d3c08a86e000" />
+
